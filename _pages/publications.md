@@ -25,3 +25,5 @@ Konnikov, A., Rets, I., Hughes, K., Alshehabi Al-Ani, J., Denier, N., **Ding, L.
 * Hu, S., Al-Ani, J.A., Hughes, K.D., Denier, N., Konnikov, A., **Ding, L.**, Xie, J., Hu, Y., Tarafdar, M., Jiang, B. and Kong, L., 2022. Balancing Gender Bias in Job Advertisements with Text-Level Bias Mitigation. Frontiers in Big Data.
 
 * Zhang, Z., Lan, Q., **Ding, L.**, Wang, Y., Hassanpour, N. and Greiner, R., 2019. Reducing selection bias in counterfactual reasoning for individual treatment effects estimation. arXiv preprint arXiv:1912.09040.
+
+* **Ding, L.**, Li, Y., Wang, H. and Xu, K., 2020, July. Measurement and Analysis of Cloud User Interest: A Glance From BitTorrent. In IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (pp. 1300-1301). IEEE.
