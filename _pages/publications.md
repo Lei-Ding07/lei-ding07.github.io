@@ -15,7 +15,7 @@ job advertising. BIAS project evidence submission to the ‘Diversity in STEM’
 and Technology Committee, House of Commons, UK Parliament.
 
 * *Book Chapter* \
-Konnikov, A., Rets, I., Hughes, K., Alshehabi Al-Ani, J., Denier, N., **Ding, L.**, Hu, S., Hu, Y., Jiang, B., Kong, L. , Tarafdar, M. and Yu, D. (2022). Responsible AI for labour market equality (BIAS), In: How to Manage International Multidisciplinary Research Projects. Edward Elgar, Cheltenham. (In Press)
+Konnikov, A., Rets, I., Hughes, K., Alshehabi Al-Ani, J., Denier, N., **Ding, L.**, Hu, S., Hu, Y., Jiang, B., Kong, L. , Tarafdar, M. and Yu, D. (2022). Responsible AI for labour market equality (BIAS), In: How to Manage International Multidisciplinary Research Projects. Edward Elgar, Cheltenham.
 
 
 * **Ding, L.**, Yu, D., Xie, J., Guo, W., Hu, S., Liu, M., Kong, L., Dai, H., Bao, Y. and Jiang, B., 2021. Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving. arXiv preprint arXiv:2112.05194.
