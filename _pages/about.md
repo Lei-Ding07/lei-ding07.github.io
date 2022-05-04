@@ -13,7 +13,7 @@ I am a Ph.D. student of Prof. [Linglong Kong](https://sites.ualberta.ca/~lkong/)
 I am especially passionate about research in Statistics, Machine learning, Deep learning, Natural langauge processing and their application and impact on the society. As such, I work at the intersection of applying statistical machine learning methods and natural language processing algorithms to investigate the social impact.
 
 
-Projects:
+## Projects:
 1. Research on reducing gender bias using casual inference framework in GloVe word embedding with semantics information retained. 
 I'm the leader of the project, work with other team members with the methodology and coding for all the related experiments. Organize regular meetings with team members to manage the whole process of the project. Our paper are accpeted by AAAI 2022 conference. 
 
