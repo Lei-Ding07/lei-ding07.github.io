@@ -17,7 +17,6 @@ and Technology Committee, House of Commons, UK Parliament.
 * *Book Chapter* \
 Konnikov, A., Rets, I., Hughes, K., Alshehabi Al-Ani, J., Denier, N., **Ding, L.**, Hu, S., Hu, Y., Jiang, B., Kong, L. , Tarafdar, M. and Yu, D. (2022). Responsible AI for labour market equality (BIAS), In: How to Manage International Multidisciplinary Research Projects. Edward Elgar, Cheltenham.
 
-
 * **Ding, L.**, Yu, D., Xie, J., Guo, W., Hu, S., Liu, M., Kong, L., Dai, H., Bao, Y. and Jiang, B., 2021. Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving. arXiv preprint arXiv:2112.05194.
 
 * Konnikov, A., Denier, N., Hu, Y., Hughes, K.D., Al-Ani, J.A., **Ding, L.**, Rets, I. and Tarafdar, M., 2022. BIAS Word inventory for work and employment diversity,(in) equality and inclusivity (Version 1.0).
@@ -27,3 +26,12 @@ Konnikov, A., Rets, I., Hughes, K., Alshehabi Al-Ani, J., Denier, N., **Ding, L.
 * Zhang, Z., Lan, Q., **Ding, L.**, Wang, Y., Hassanpour, N. and Greiner, R., 2019. Reducing selection bias in counterfactual reasoning for individual treatment effects estimation. arXiv preprint arXiv:1912.09040.
 
 * **Ding, L.**, Li, Y., Wang, H. and Xu, K., 2020, July. Measurement and Analysis of Cloud User Interest: A Glance From BitTorrent. In IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (pp. 1300-1301). IEEE.
+
+## On going papers:
+
+* **Ding, L.**, Jiang, B., Iravani, M. (2022). Evaluation of Machine Learning Methods to Predict Total
+Soil Carbon: A Case Study of Alberta.
+
+* Mosquera, L., Emam, K., Subakan, C., **Ding, L.**, Sharma, V., Carvalho, C., Hamilton, B., Palfrey, P.,
+Kong, L., Jiang, B. and Eurich, D. (2022) A Method for Generating Synthetic Longitudinal Health
+Data. BMC Medical Research Methodology, under review
