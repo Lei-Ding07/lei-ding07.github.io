@@ -3,7 +3,7 @@ title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University Of Minnesota Duluth, Department of Mathematics & Statistics "
+venue: "University Of Minnesota, Department of Mathematics & Statistics "
 date: 2015-2017
 location: "Minnesota, USA"
 ---
