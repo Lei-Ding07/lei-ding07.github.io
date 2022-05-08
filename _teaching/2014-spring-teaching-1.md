@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University Of Minnesota Duluth, Department of Mathematics & Statistics "
+date: 2015-2017
+location: "Minnesota, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant:
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- MATH 1160 - Finite, Intro Calculus *Fall 2015*
+- MATH 1296 - Calculus I *Spring 2016*
+- MATH 1297 - Calculus II *Fall 2016*
+- MATH 1296 - Calculus I *Spring 2017*
