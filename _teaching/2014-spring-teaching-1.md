@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University Of Minnesota, Department of Mathematics & Statistics "
-date: 2015-2017
+date: 2015-09-01
 location: "Minnesota, USA"
 ---
 
