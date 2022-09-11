@@ -13,7 +13,7 @@ I am a Ph.D. student advised by Prof. [Linglong Kong](https://sites.ualberta.ca/
 I am especially passionate about research in Statistics, Machine learning, Deep learning, Natural langauge processing and their application and impact on the society. As such, I work at the intersection of applying statistical machine learning methods and natural language processing algorithms to investigate the social impact.
 
 ## Interview:
-https://www.ualberta.ca/folio/2022/09/ai-researchers-improve-method-for-removing-gender-bias-in-natural-language-processing.html
+[University of Alberta Folio](https://www.ualberta.ca/folio/2022/09/ai-researchers-improve-method-for-removing-gender-bias-in-natural-language-processing.html)
 
 
 ## Projects:
