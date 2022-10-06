@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}  
 
+* Liu, M., **Ding, L.**, Yu, D., Liu, W., Kong, L., and Jiang B., 2022. Confromalized Fariness via Quantile Regression. Accepted by Neurips 2022
+
+
 * Hu, Y., Tarafdar, M., Al-Ani, J. A., Rets, I., Hu, S., Denier, D., Hughes, K. D., Konnikov, A., &
 **Ding, L.** (2022). Gendered STEM workforce in the United Kingdom: The role of gender bias in
 job advertising. BIAS project evidence submission to the ‘Diversity in STEM’ inquiry, Science
