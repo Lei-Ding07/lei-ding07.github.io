@@ -8,10 +8,11 @@ date: 2018-09-01
 location: "Edmonton, Alberta, Canada"
 ---
 Teaching Labs or Grading for:
-- MATH 134
-- MATH 125
-- STAT 151
-- STAT 235
-- STAT 252
-- STAT 255
-- STAT 541
+- MATH 134 Calculus for the Life Sciences I
+- MATH 125 Linear Algebra I
+- STAT 151 Introduction to Applied Statistics I
+- STAT 235 Introductory Statistics for Engineering
+- STAT 252 Introduction to Applied Statistics II
+- STAT 265 Statistics I
+- STAT 378 Applied Regression Analysis
+- STAT 541 Statistics for Learning
