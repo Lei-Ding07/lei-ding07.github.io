@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}  
 
+* Liu, Y., Hu, Q., **Ding, L.**, and Kong, L., 2023. Online Local Differential Private Quantile Inference via Self-normalization. Accepted by ICML 2023
+* Mosquera, L., El Emam, K., **Ding, L.**, Sharma, V., Zhang, X. H., Kababji, S. E., ... & Eurich, D. T. (2023). A method for generating synthetic longitudinal health data. BMC Medical Research Methodology, 23(1), 1-21.
 * Liu, M., **Ding, L.**, Yu, D., Liu, W., Kong, L., and Jiang B., 2022. Confromalized Fariness via Quantile Regression. Accepted by Neurips 2022
 
 
