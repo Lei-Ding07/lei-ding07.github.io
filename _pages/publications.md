@@ -36,7 +36,3 @@ Konnikov, A., Rets, I., Hughes, K., Alshehabi Al-Ani, J., Denier, N., **Ding, L.
 
 * **Ding, L.**, Jiang, B., Iravani, M. (2022). Evaluation of Machine Learning Methods to Predict Total
 Soil Carbon: A Case Study of Alberta.
-
-* Mosquera, L., Emam, K., Subakan, C., **Ding, L.**, Sharma, V., Carvalho, C., Hamilton, B., Palfrey, P.,
-Kong, L., Jiang, B. and Eurich, D. (2022) A Method for Generating Synthetic Longitudinal Health
-Data. BMC Medical Research Methodology, under review
