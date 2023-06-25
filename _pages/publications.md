@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}  
 
-* Liu, Y., Hu, Q., **Ding, L.**, and Kong, L., 2023. Online Local Differential Private Quantile Inference via Self-normalization. Accepted by ICML 2023
+* Liu, Y., Hu, Q., **Ding, L.**, Jiang, B. and Kong, L., 2023. Online Local Differential Private Quantile Inference via Self-normalization. Accepted by ICML 2023
 * Mosquera, L., El Emam, K., **Ding, L.**, Sharma, V., Zhang, X. H., Kababji, S. E., ... & Eurich, D. T. (2023). A method for generating synthetic longitudinal health data. BMC Medical Research Methodology, 23(1), 1-21.
-* Liu, M., **Ding, L.**, Yu, D., Liu, W., Kong, L., and Jiang B., 2022. Confromalized Fariness via Quantile Regression. Accepted by Neurips 2022
+* Liu, M., **Ding, L.**, Yu, D., Liu, W., Kong, L., and Jiang B., 2022. Confromalized Fairness via Quantile Regression. Accepted by Neurips 2022
 
 
 * Hu, Y., Tarafdar, M., Al-Ani, J. A., Rets, I., Hu, S., Denier, D., Hughes, K. D., Konnikov, A., &
@@ -32,7 +32,7 @@ Konnikov, A., Rets, I., Hughes, K., Alshehabi Al-Ani, J., Denier, N., **Ding, L.
 
 * **Ding, L.**, Li, Y., Wang, H. and Xu, K., 2020, July. Measurement and Analysis of Cloud User Interest: A Glance From BitTorrent. In IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (pp. 1300-1301). IEEE.
 
-## On going papers:
+## On-going papers:
 
 * **Ding, L.**, Jiang, B., Iravani, M. (2022). Evaluation of Machine Learning Methods to Predict Total
 Soil Carbon: A Case Study of Alberta.
