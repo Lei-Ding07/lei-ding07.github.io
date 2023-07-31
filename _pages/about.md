@@ -16,46 +16,75 @@ I am especially passionate about research in Statistics, Machine learning, Deep 
 [University of Alberta Folio](https://www.ualberta.ca/folio/2022/09/ai-researchers-improve-method-for-removing-gender-bias-in-natural-language-processing.html)
 
 
-## Projects:
-1. Our work on estimating population quantiles under Local Differential Privacy is accepted to ICML 2023. 
+## Academic Research and Conference Papers:
 
-1. Our work on quantile fairness regression is accepted by Neurips in 2022. We propose that other than focusing on mean prediction, quantile fairness is also an essential concern for the whole of society. We further provide a confromalized prediction interval that is available for quantifying the uncertainty of the fairness algorithm as well as providing a 'fair' prediction interval. 
+### 1. Local Differential Privacy for Population Quantile Estimation (ICML 2023)
+- Developed a novel approach for estimating population quantiles with Local Differential Privacy.
+- Accepted at ICML 2023.
 
-1. Research on reducing gender bias using casual inference framework in GloVe word embedding with semantics information retained. 
-I'm the leader of the project, working with other team members on the methodology and coding for all the related experiments. Organize regular meetings with team members to manage the whole process of the project. Our papers are accepted by AAAI 2022 conference. 
+### 2. Quantile Fairness Regression with Conformalized Prediction Intervals (NeurIPS 2022)
+- Presented a pioneering study on quantile fairness regression at NeurIPS 2022.
+- Proposed a novel conformed prediction interval to assess fairness algorithm uncertainty and provide 'fair' prediction intervals.
 
-2. Research on Using AI to combat gender and ethnic bias in the job market.
-I'm heavily involved in an international project that aims to identify and reduce bias in job recruitment and human resource management using responsible artificial intelligence. The project is one of the Canada-UK Artificial Intelligence Initiative. As the leader of the computational team which involves four postdocs and three Ph.D. students from Canada and the UK, I organized all the important meetings and discussions with my team members and managed the whole project process. I am also responsible for communication and management to work interdisciplinary with sociology teams. In particular, I worked on all the coding parts of the projects, from gathering the job market data, to preprocessing the data, and training models to generating the word embeddings for our specific job data.
+### 3. Reducing Gender Bias in GloVe Word Embeddings Using Causal Inference (AAAI 2022)
+- Led a team in reducing gender bias in GloVe word embeddings while retaining semantics information.
+- Successfully presented the findings at AAAI 2022 conference.
 
-3. Intern for developing machine learning models for the synthesis of structured health data at [Replica Analytics](https://replica-analytics.com/)
-I worked as an intern on synthesizing structured health data. My responsibility involves building complex state-of-the-art deep learning models for generating longitudinal synthetic data from scratch, implementing various utility evaluation methods, and discussing with team members solving critical modeling issues. Our paper is accepted to the BMC Medical Research Methodology 2023.
+### 4. AI-driven Combat Against Bias in Job Recruitment (Canada-UK AI Initiative)
+- Led an international project to identify and mitigate gender and ethnic bias in the job market using AI.
+- Managed a diverse team of postdocs and Ph.D. students from Canada and the UK.
+- Collaboration with sociology teams for interdisciplinary work.
+- Published outcomes in reputable journals and conferences.
 
-4. Project on prediction of carbon percentage in Alberta soil.
-I'm heavily involved in an interdisciplinary project that cooperates with the Alberta Biodiversity Monitoring Institute and the College of Natural and Applied Sciences. I'm responsible for data preprocessing to perform sophisticated statistical analysis for the prediction of carbon soil percentage in Alberta.  I also come up with a novel screening variable method with bootstraps group lasso for statistically evaluating the factors that affect the carbon percentage. A research paper is written and submitted to Science of the Total Environment 2021.
+### 5. Synthetic Health Data Generation with Deep Learning (Replica Analytics)
+- Internship at Replica Analytics, working on synthesizing structured health data.
+- Developed state-of-the-art deep learning models to generate longitudinal synthetic data.
+- Contributed to critical modeling discussions and utility evaluation methods.
+- Research paper accepted at BMC Medical Research Methodology 2023.
 
-5. Project on augmented decision-making capabilities for innovation management and continuous improvement by organizations.
-I'm the leader of the project for helping the human resources company cluster ideas & comments via different language modeling methods. I implemented various natural language processing models including TF-IDF, averaging word vectors, doc2vec, and RNN with BERT embeddings. The project successfully helps the company for saving a lot of costs and human resources for various tasks.
+### 6. Predicting Carbon Percentage in Alberta Soil (Alberta Biodiversity Monitoring Institute)
+- Collaborated on an interdisciplinary project for predicting carbon soil percentage.
+- Developed a novel screening variable method with bootstraps group lasso for analysis.
+- Submitted research paper to Science of the Total Environment in 2021.
 
-6. Research on Reducing Selection Bias in Counterfactual Reasoning for Individual Treatment Effects Estimation.
-I was involved in a research project that proposed a novel framework for addressing the issue of selection bias. I was mainly focused on discussing the main methodology and proposing a novel synthetic data-generating mechanism. Our paper is accepted by NeurIPS 2019 Workshop on "Do the right thing".
+### 7. Reducing Selection Bias in Counterfactual Reasoning (NeurIPS 2019 Workshop)
+- Contributed to a research project addressing selection bias in counterfactual reasoning.
+- Proposed a novel synthetic data-generating mechanism.
+- Paper presented at NeurIPS 2019 Workshop on "Do the right thing."
+
+### 8. Cloud User Interest Analysis in P2P Systems (2017)
+- Conducted measurements and analysis of cloud peers' interest in P2P systems.
+- Built web scrapers and performed data analysis and visualization.
+- Utilized machine learning (clustering algorithm) to gain insights.
+- Paper presented at IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops
 
 
-2. Intern in Guangzhou Huazi Software Technology Co  2018 \
-Built a Recurrent neural network for predicting medical insurance costs for Foshan and Zhanjiang Governments; Worked on NLP word correction for OCR with Kneser-Ney smoothing and noisy channel model.
+## Internships and Personal Projects:
 
-3. Named Entity Recognition model using RNN with Tensorflow 2018\
-BImplements bi-directional LSTM for character embeddings. Utilized both Glove word embeddings and character embeddings for prediction. Applied conditional random field on the output layer to avoid local labeling bias.
+### 1. Augmented Decision-making for Innovation Management (Human Resources Company)
+- Led a project that utilized various language modeling methods to cluster ideas and comments efficiently.
+- Implemented NLP models including TF-IDF, averaging word vectors, doc2vec, and RNN with BERT embeddings.
+- Successfully improved innovation management and resource allocation.
 
-4. Research on Cloud User Interest in P2P Systems 2016
-Performed measurements and analysis of cloud peers' interest in P2P systems. Built web scraper with Python and modified Ctorrent source code with C++. Performed data analysis and visualization using Jupyter Notebook with pandas, NumPy, and matplotlib. Performed machine learning: clustering algorithm with scikit-learn.
+### 1. Medical Insurance Cost Prediction using Recurrent Neural Networks
+- Internship at Guangzhou Huazi Software Technology Co in 2018.
+- Built RNN models to predict medical insurance costs for government authorities.
+- Worked on NLP word correction for OCR with Kneser-Ney smoothing and noisy channel model.
 
-5. Implement a neural-based Dependency Parser 2017
-Applied fully connected dense layer as an oracle for transitional-based dependency parser. Use embedding for POS tag features and word2vec for word embedding.
+### 2. Named Entity Recognition with RNN and Tensorflow (2018)
+- Developed a bi-directional LSTM model with character embeddings for Named Entity Recognition.
+- Utilized Glove word embeddings and conditional random field for accurate predictions.
 
-6. Research on Cooperation of Clustering and Differential Evolution Algorithm 2015
-Combining different clustering algorithms: K-means, K-modes, and Hierarchical clustering with Differential Evolution algorithms on different functions to improve the searching ability and convergence speed on some difficult optimization problems.
+### 4. Neural-based Dependency Parser Implementation (2017)
+- Implemented a neural-based dependency parser using fully connected dense layers.
+- Incorporated word embeddings and POS tag features for improved accuracy.
 
-7. Intern at SAMSUNG Advanced Institute of Technology 2015
-Intern for 3D Human Faces Modeling. Involved in writing Matlab program for registering the face point cloud data to the standard models and involved in writing C++ code for ECG signals processing.
+### 5. Cooperation of Clustering and Differential Evolution Algorithm (2015)
+- Explored the combination of different clustering algorithms with Differential Evolution.
+- Improved searching ability and convergence speed on challenging optimization problems.
+
+### 6. 3D Human Faces Modeling at SAMSUNG Advanced Institute of Technology (2015)
+- Internship focused on 3D human faces modeling.
+- Developed Matlab and C++ programs for face point cloud data processing and ECG signals analysis.
 
 
