@@ -60,6 +60,9 @@ I am especially passionate about research in Statistics, Machine learning, Deep 
 - Utilized machine learning (clustering algorithm) to gain insights.
 - Paper presented at IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops
 
+## Invited Talk:
+Ding, L, (Author & Presenter), Society for Industrial and Applied Mathematics (SIAM) Spring 2023, "Word embeddings via causal inference: Gender bias reducing and semantic information preserving" the University of Texas at Arlington, Arlington, TX. (May 2nd, 2023)
+
 
 ## Internships and Personal Projects:
 
