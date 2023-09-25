@@ -17,6 +17,8 @@ I am especially passionate about research in Statistics, Machine learning, Deep 
 
 
 ## Academic Research and Conference Papers:
+### 1. Gaussian differential privacy on Riemannian manifolds (NeurIPS 2023)
+- We develop an advanced approach for extending Gaussian Differential Privacy (GDP) to general Riemannian manifolds.
 
 ### 1. Local Differential Privacy for Population Quantile Estimation (ICML 2023)
 - Developed a novel approach for estimating population quantiles with Local Differential Privacy.
