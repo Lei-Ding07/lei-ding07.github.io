@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}  
-* Yangdi Jiang, Xiaotian Chang, Yi Liu, **Lei Ding**, Linglong Kong, and Bei Jiang. Gaussian differential privacy on Riemannian manifolds. Advances in Neural Information Processing Systems, 2023. Accepted.
+* Jiang, Y., Chang, X., Liu, Y., **Ding, L.**, Kong, L. and Jiang, B., 2023. Gaussian Differential Privacy on Riemannian Manifolds. Advances in Neural Information Processing Systems, 2023. Accepted.
 * Liu, Y., Hu, Q., **Ding, L.**, & Kong, L. (2023, July). Online Local Differential Private Quantile Inference via Self-normalization. In International Conference on Machine Learning (pp. 21698-21714). PMLR.
 * Mosquera, L., El Emam, K., **Ding, L.**, Sharma, V., Zhang, X. H., Kababji, S. E., ... & Eurich, D. T. (2023). A method for generating synthetic longitudinal health data. BMC Medical Research Methodology, 23(1), 1-21.
 * Liu, M., **Ding, L.**, Yu, D., Liu, W., Kong, L., and Jiang B., (2022). Conformalized Fairness via Quantile Regression. Advances in Neural Information Processing Systems, 35, 11561-11572.
