@@ -17,44 +17,48 @@ I am especially passionate about research in Statistics, Machine learning, Deep 
 
 
 ## Academic Research and Conference Papers:
-### 1. Gaussian differential privacy on Riemannian manifolds (NeurIPS 2023)
+### Debiasing with Sufficient Projection: A General Theoretical Framework for Vector Representations (NAACL 2024)
+- We propose a novel framework to reduce bias by transforming vector representations to an unbiased subspace using sufficient projection.
+
+
+### Gaussian differential privacy on Riemannian manifolds (NeurIPS 2023)
 - We develop an advanced approach for extending Gaussian Differential Privacy (GDP) to general Riemannian manifolds.
 
-### 1. Local Differential Privacy for Population Quantile Estimation (ICML 2023)
+### Local Differential Privacy for Population Quantile Estimation (ICML 2023)
 - Developed a novel approach for estimating population quantiles with Local Differential Privacy.
 - Accepted at ICML 2023.
 
-### 2. Quantile Fairness Regression with Conformalized Prediction Intervals (NeurIPS 2022)
+### Quantile Fairness Regression with Conformalized Prediction Intervals (NeurIPS 2022)
 - Presented a pioneering study on quantile fairness regression at NeurIPS 2022.
 - Proposed a novel conformed prediction interval to assess fairness algorithm uncertainty and provide 'fair' prediction intervals.
 
-### 3. Reducing Gender Bias in GloVe Word Embeddings Using Causal Inference (AAAI 2022)
+### Reducing Gender Bias in GloVe Word Embeddings Using Causal Inference (AAAI 2022)
 - Led a team in reducing gender bias in GloVe word embeddings while retaining semantics information.
 - Successfully presented the findings at AAAI 2022 conference.
 
-### 4. AI-driven Combat Against Bias in Job Recruitment (Canada-UK AI Initiative)
+### AI-driven Combat Against Bias in Job Recruitment (Canada-UK AI Initiative)
 - Led an international project to identify and mitigate gender and ethnic bias in the job market using AI.
 - Managed a diverse team of postdocs and Ph.D. students from Canada and the UK.
 - Collaboration with sociology teams for interdisciplinary work.
 - Published outcomes in reputable journals and conferences.
 
-### 5. Synthetic Health Data Generation with Deep Learning (Replica Analytics)
+### Synthetic Health Data Generation with Deep Learning (Replica Analytics)
 - Internship at Replica Analytics, working on synthesizing structured health data.
 - Developed state-of-the-art deep learning models to generate longitudinal synthetic data.
 - Contributed to critical modeling discussions and utility evaluation methods.
 - Research paper accepted at BMC Medical Research Methodology 2023.
 
-### 6. Predicting Carbon Percentage in Alberta Soil (Alberta Biodiversity Monitoring Institute)
+### Predicting Carbon Percentage in Alberta Soil (Alberta Biodiversity Monitoring Institute)
 - Collaborated on an interdisciplinary project for predicting carbon soil percentage.
 - Developed a novel screening variable method with bootstraps group lasso for analysis.
 - Submitted research paper to Science of the Total Environment in 2021.
 
-### 7. Reducing Selection Bias in Counterfactual Reasoning (NeurIPS 2019 Workshop)
+### Reducing Selection Bias in Counterfactual Reasoning (NeurIPS 2019 Workshop)
 - Contributed to a research project addressing selection bias in counterfactual reasoning.
 - Proposed a novel synthetic data-generating mechanism.
 - Paper presented at NeurIPS 2019 Workshop on "Do the right thing."
 
-### 8. Cloud User Interest Analysis in P2P Systems (2017)
+### Cloud User Interest Analysis in P2P Systems (2017)
 - Conducted measurements and analysis of cloud peers' interest in P2P systems.
 - Built web scrapers and performed data analysis and visualization.
 - Utilized machine learning (clustering algorithm) to gain insights.
