@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}  
-* Shi E.+, **Ding, L.**+, Kong, L. and Jiang, B., 2024. Debiasing with Sufficient Projection: A General Theoretical Framework for Vector Representations. NAACL, 2024. Accepted.
+* Shi E., **Ding, L.**, Kong, L. and Jiang, B., 2024. Debiasing with Sufficient Projection: A General Theoretical Framework for Vector Representations. NAACL, 2024. Accepted.
 * Jiang, Y., Chang, X., Liu, Y., **Ding, L.**, Kong, L. and Jiang, B., 2023. Gaussian Differential Privacy on Riemannian Manifolds. Advances in Neural Information Processing Systems, 2023. Accepted.
 * Liu, Y., Hu, Q., **Ding, L.**, & Kong, L. (2023, July). Online Local Differential Private Quantile Inference via Self-normalization. In International Conference on Machine Learning (pp. 21698-21714). PMLR.
 * Mosquera, L., El Emam, K., **Ding, L.**, Sharma, V., Zhang, X. H., Kababji, S. E., ... & Eurich, D. T. (2023). A method for generating synthetic longitudinal health data. BMC Medical Research Methodology, 23(1), 1-21.
