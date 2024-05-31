@@ -62,11 +62,10 @@ I am especially passionate about research in Statistics, Machine learning, Deep 
 - Proposed a novel synthetic data-generating mechanism.
 - Paper presented at NeurIPS 2019 Workshop on "Do the right thing."
 
-### Cloud User Interest Analysis in P2P Systems (2017)
+### Cloud User Interest Analysis in P2P Systems (IEEE INFOCOM 2020)
 - Conducted measurements and analysis of cloud peers' interest in P2P systems.
 - Built web scrapers and performed data analysis and visualization.
 - Utilized machine learning (clustering algorithm) to gain insights.
-- Paper presented at IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops
 
 ## Invited Talk:
 **Ding, L**, (Author & Presenter), Society for Industrial and Applied Mathematics (SIAM) Spring 2023, "Word embeddings via causal inference: Gender bias reducing and semantic information preserving" the University of Texas at Arlington, Arlington, TX. (May 2nd, 2023)
