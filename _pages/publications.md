@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}  
+* Shen K., **Ding, L.**, Kong, L. and Liu X., 2024. From Physical Space to Cyberspace: Recessive Gender Stereotypes in Social Media Mirrors the Real World. Cities.
 * Shi E., **Ding, L.**, Kong, L. and Jiang, B., 2024. Debiasing with Sufficient Projection: A General Theoretical Framework for Vector Representations. NAACL, 2024. Accepted.
 * Jiang, Y., Chang, X., Liu, Y., **Ding, L.**, Kong, L. and Jiang, B., 2023. Gaussian Differential Privacy on Riemannian Manifolds. Advances in Neural Information Processing Systems, 2023. Accepted.
 * Liu, Y., Hu, Q., **Ding, L.**, & Kong, L. (2023, July). Online Local Differential Private Quantile Inference via Self-normalization. In International Conference on Machine Learning (pp. 21698-21714). PMLR.
