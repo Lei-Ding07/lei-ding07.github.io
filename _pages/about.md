@@ -24,21 +24,19 @@ I am especially passionate about research in Statistics, Machine learning, Deep 
 ### Debiasing with Sufficient Projection: A General Theoretical Framework for Vector Representations (NAACL 2024)
 - We propose a novel framework to reduce bias by transforming vector representations to an unbiased subspace using sufficient projection.
 
-
 ### Gaussian differential privacy on Riemannian manifolds (NeurIPS 2023)
 - We develop an advanced approach for extending Gaussian Differential Privacy (GDP) to general Riemannian manifolds.
 
 ### Local Differential Privacy for Population Quantile Estimation (ICML 2023)
 - Developed a novel approach for estimating population quantiles with Local Differential Privacy.
-- Accepted at ICML 2023.
 
 ### Quantile Fairness Regression with Conformalized Prediction Intervals (NeurIPS 2022)
 - Presented a pioneering study on quantile fairness regression at NeurIPS 2022.
-- Proposed a novel conformed prediction interval to assess fairness algorithm uncertainty and provide 'fair' prediction intervals.
+- Proposed a novel conformalzied prediction interval to assess fairness algorithm uncertainty and provide fair prediction intervals.
 
 ### Reducing Gender Bias in GloVe Word Embeddings Using Causal Inference (AAAI 2022)
-- Led a team in reducing gender bias in GloVe word embeddings while retaining semantics information.
-- Successfully presented the findings at AAAI 2022 conference.
+- We propose a method for gender bias in GloVe word embeddings while retaining semantics information.
+
 
 ### AI-driven Combat Against Bias in Job Recruitment (Canada-UK AI Initiative)
 - Led an international project to identify and mitigate gender and ethnic bias in the job market using AI.
