@@ -33,7 +33,7 @@ I am especially passionate about research in Statistics, Machine learning, Deep 
 
 ### Quantile Fairness Regression with Conformalized Prediction Intervals (NeurIPS 2022)
 - Presented a pioneering study on quantile fairness regression at NeurIPS 2022.
-- Proposed a novel conformalzied prediction interval to assess fairness algorithm uncertainty and provide fair prediction intervals.
+- Proposed a novel conformalized prediction interval to assess fairness algorithm uncertainty and provide fair prediction intervals.
 
 ### Reducing Gender Bias in GloVe Word Embeddings Using Causal Inference (AAAI 2022)
 - We propose a method for gender bias in GloVe word embeddings while retaining semantics information.
