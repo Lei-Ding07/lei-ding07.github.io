@@ -19,7 +19,8 @@ I am especially passionate about research in Statistics, Machine learning, Deep 
 ## Academic Research and Conference Papers:
 
 ### From physical space to cyberspace: Recessive gender biases in social media mirror the real world (Cities)
-- We propose a new Framework to analyze and quantify recessive gender biases in social media, using Hong Kong's Twitter data as a case study. Our framework demonstrates the temporal trends and spatial distribution of these biases, revealing that the gender biases in Hong Kong's virtual spaces closely mirror those in the physical world, highlighting the persistent influence of gender stereotypes across both realms.
+- We propose a new Framework to analyze and quantify recessive gender biases in social media, using Hong Kong's Twitter data as a case study.
+- Our framework demonstrates the temporal trends and spatial distribution of these biases, revealing that the gender biases in Hong Kong's virtual spaces closely mirror those in the physical world, highlighting the persistent influence of gender stereotypes across both realms.
 
 ### Debiasing with Sufficient Projection: A General Theoretical Framework for Vector Representations (NAACL 2024)
 - We propose a novel framework to reduce bias by transforming vector representations to an unbiased subspace using sufficient projection.
