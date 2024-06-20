@@ -15,4 +15,7 @@ Teaching Labs or Grading for:
 - STAT 252 Introduction to Applied Statistics II
 - STAT 265 Statistics I
 - STAT 378 Applied Regression Analysis
+- STAT 441 Statistical Methods for Learning and Data Mining
 - STAT 541 Statistics for Learning
+- STAT 578 Regression Analysis
+- STAT 537 - Statistical Methods for Applied Research II
