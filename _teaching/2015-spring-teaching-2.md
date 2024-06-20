@@ -11,6 +11,7 @@ Teaching Labs or Grading for:
 - MATH 134 Calculus for the Life Sciences I
 - MATH 125 Linear Algebra I
 - STAT 151 Introduction to Applied Statistics I
+- STAT 161 Introductory Statistics for Business and Economics
 - STAT 235 Introductory Statistics for Engineering
 - STAT 252 Introduction to Applied Statistics II
 - STAT 265 Statistics I
