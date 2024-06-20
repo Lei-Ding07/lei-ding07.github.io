@@ -7,7 +7,7 @@ venue: "University of Alberta, Department of Mathmatics and Statistics"
 date: 2018-09-01
 location: "Edmonton, Alberta, Canada"
 ---
-Teaching Labs or Grading for:
+Teaching Labs or Grading for(2018-2024):
 - MATH 134 Calculus for the Life Sciences I
 - MATH 125 Linear Algebra I
 - STAT 151 Introduction to Applied Statistics I
