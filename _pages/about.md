@@ -18,6 +18,13 @@ I am especially passionate about research in Statistics, Machine learning, Deep 
 
 ## Academic Research and Conference Papers:
 
+
+### Probing Social Bias in Labor Market Text Generation by ChatGPT: A Masked Language Model Approach (Neurips 2024)
+- We propose a novel experimental design to examine social biases within ChatGPT-generated job applications in response to real job advertisements.
+- By simulating the process of job application creation, we examine the language patterns and biases that emerge when the model is prompted with diverse job postings.
+- We also present a novel bias evaluation framework based on Masked Language Models to quantitatively assess social bias based on validated inventories of social cues/words
+
+
 ### From physical space to cyberspace: Recessive gender biases in social media mirror the real world (Cities)
 - We propose a new Framework to analyze and quantify recessive gender biases in social media, using Hong Kong's Twitter data as a case study.
 - Our framework demonstrates the temporal trends and spatial distribution of these biases, revealing that the gender biases in Hong Kong's virtual spaces closely mirror those in the physical world, highlighting the persistent influence of gender stereotypes across both realms.
