@@ -14,7 +14,7 @@ I am especially passionate about research in Statistics, Machine learning, Deep 
 
 ## Interview:
 [University of Alberta Folio](https://www.ualberta.ca/folio/2022/09/ai-researchers-improve-method-for-removing-gender-bias-in-natural-language-processing.html)
-
+[University of Alberta Gateway](https://thegatewayonline.ca/2022/10/study-has-found-ways-to-reduce-gender-bias-in-natural-language-processing/)
 
 ## Academic Research and Conference Papers:
 
