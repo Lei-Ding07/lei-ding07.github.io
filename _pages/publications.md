@@ -14,6 +14,7 @@ redirect_from:
 * Jiang, Y., Chang, X., Liu, Y., **Ding, L.**, Kong, L. and Jiang, B. (2023). Gaussian Differential Privacy on Riemannian Manifolds. Advances in Neural Information Processing Systems, 36, 14665-14684.
 * Liu, Y., Hu, Q., **Ding, L.**, & Kong, L. (2023, July). Online Local Differential Private Quantile Inference via Self-normalization. In International Conference on Machine Learning (pp. 21698-21714). PMLR.
 * Mosquera, L., El Emam, K., **Ding, L.**, Sharma, V., Zhang, X. H., Kababji, S. E., ... & Eurich, D. T. (2023). A method for generating synthetic longitudinal health data. BMC Medical Research Methodology, 23(1), 1-21.
+* **Ding, L.**, Yu, D., Xie, J., Guo, W., Hu, S., Liu, M., Kong, L., Dai, H., Bao, Y. and Jiang, B., 2022, June. Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 11, pp. 11864-11872).
 * Liu, M., **Ding, L.**, Yu, D., Liu, W., Kong, L., and Jiang B., (2022). Conformalized Fairness via Quantile Regression. Advances in Neural Information Processing Systems, 35, 11561-11572.
 
 
@@ -24,7 +25,7 @@ and Technology Committee, House of Commons, UK Parliament.
 
 * Konnikov, A., Rets, I., Hughes, K., Alshehabi Al-Ani, J., Denier, N., **Ding, L.**, Hu, S., Hu, Y., Jiang, B., Kong, L. , Tarafdar, M. and Yu, D. (2022). Responsible AI for labour market equality (BIAS), In: How to Manage International Multidisciplinary Research Projects. Edward Elgar, Cheltenham.
 
-* **Ding, L.**, Yu, D., Xie, J., Guo, W., Hu, S., Liu, M., Kong, L., Dai, H., Bao, Y. and Jiang, B., 2022, June. Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 11, pp. 11864-11872).
+
 
 * Konnikov, A., Denier, N., Hu, Y., Hughes, K.D., Al-Ani, J.A., **Ding, L.**, Rets, I. and Tarafdar, M., 2022. BIAS Word inventory for work and employment diversity,(in) equality and inclusivity (Version 1.0).
 
