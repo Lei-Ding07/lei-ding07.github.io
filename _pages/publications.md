@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 * **Ding, L.**, Hu Y., Denier N., Shi E., Zhang J., Hu Q., Hughes K. D., Kong L., and Jiang B., 2024. Probing Social Bias in Labor Market Text Generation by ChatGPT: A Masked Language Model Approach,  Advances in Neural Information Processing Systems 2024, Accepted.
-* Shen K., **Ding, L.**, Kong, L. and Liu X., 2024. From Physical Space to Cyberspace: Recessive Gender Stereotypes in Social Media Mirrors the Real World. Cities.
+* Shen, K., **Ding, L.**, Kong, L., & Liu, X. (2024). From physical space to cyberspace: Recessive gender biases in social media mirror the real world. Cities, 152, 105149.
 * Shi, E., **Ding, L.**, Kong, L., & Jiang, B. (2024, June). Debiasing with Sufficient Projection: A General Theoretical Framework for Vector Representations. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) (pp. 5960-5975).
 * Jiang, Y., Chang, X., Liu, Y., **Ding, L.**, Kong, L. and Jiang, B. (2023). Gaussian Differential Privacy on Riemannian Manifolds. Advances in Neural Information Processing Systems, 36, 14665-14684.
 * Liu, Y., Hu, Q., **Ding, L.**, & Kong, L. (2023, July). Online Local Differential Private Quantile Inference via Self-normalization. In International Conference on Machine Learning (pp. 21698-21714). PMLR.
