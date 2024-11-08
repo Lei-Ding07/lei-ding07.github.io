@@ -12,10 +12,6 @@ I am a Ph.D. student advised by Prof. [Linglong Kong](https://sites.ualberta.ca/
 
 I am especially passionate about research in Statistics, Machine learning, Deep learning, and Natural language processing and their application and impact on society. As such, I work at the intersection of applying statistical machine learning methods and natural language processing algorithms to investigate social impact.
 
-## Interview:
-[University of Alberta Folio](https://www.ualberta.ca/folio/2022/09/ai-researchers-improve-method-for-removing-gender-bias-in-natural-language-processing.html)
-
-[University of Alberta Gateway](https://thegatewayonline.ca/2022/10/study-has-found-ways-to-reduce-gender-bias-in-natural-language-processing/)
 
 ## Academic Research and Conference Papers:
 
@@ -78,6 +74,11 @@ We develops a gender and EDI language inventory for job advertisements to examin
 
 ## Invited Talk:
 **Ding, L**, (Author & Presenter), Society for Industrial and Applied Mathematics (SIAM) Spring 2023, "Word embeddings via causal inference: Gender bias reducing and semantic information preserving" the University of Texas at Arlington, Arlington, TX. (May 2nd, 2023)
+
+## Interview:
+[University of Alberta Folio](https://www.ualberta.ca/folio/2022/09/ai-researchers-improve-method-for-removing-gender-bias-in-natural-language-processing.html)
+
+[University of Alberta Gateway](https://thegatewayonline.ca/2022/10/study-has-found-ways-to-reduce-gender-bias-in-natural-language-processing/)
 
 
 ## Internships and Personal Projects:
