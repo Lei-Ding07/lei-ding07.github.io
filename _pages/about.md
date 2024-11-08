@@ -25,6 +25,8 @@ I am especially passionate about research in Statistics, Machine learning, Deep 
 - By simulating the process of job application creation, we examine the language patterns and biases that emerge when the model is prompted with diverse job postings.
 - We also present a novel bias evaluation framework based on Masked Language Models to quantitatively assess social bias based on validated inventories of social cues/words
 
+### Language in job advertisements and the reproduction of labor force gender and racial segregation (PNAS Nexus 2024)
+We develops a gender and EDI language inventory for job advertisements to examine the reciprocal influence between the language used in job ads and the gender/racial composition of the labor force. Utilizing 28.6 million job ads from the United Kingdom (2018-2023) and labor force statistics, it identifies mechanisms through which this interaction either perpetuates or mitigates gender/racial segregation in the labor force. The findings emphasize the potential impacts and challenges of modifying job ad language to foster labor market equity.
 
 ### From physical space to cyberspace: Recessive gender biases in social media mirror the real world (Cities)
 - We propose a new Framework to analyze and quantify recessive gender biases in social media, using Hong Kong's Twitter data as a case study.
