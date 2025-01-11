@@ -10,8 +10,9 @@ redirect_from:
 
 I am a Ph.D. student advised by Prof. [Linglong Kong](https://sites.ualberta.ca/~lkong/) and Prof. [Bei Jiang](https://sites.ualberta.ca/~bei1/) at the University of Alberta (UofA). I obtained my M.S. degree at the University of Minnesota with Prof. [Yang Li](https://yangli-stat.github.io/) and Prof. [Haiyang Wang](https://www.d.umn.edu/~haiyang/) and B.S. degree at Beijing University of Posts and Telecommunications(BUPT).
 
-I am especially passionate about research in Statistics, Machine learning, Deep learning, and Natural language processing and their application and impact on society. As such, I work at the intersection of applying statistical machine learning methods and natural language processing algorithms to investigate social impact.
+I am especially passionate about research in Machine learning, Deep learning, and Natural language processing and their application and impact on society. As such, I work at the intersection of applying statistical machine learning methods and natural language processing algorithms to investigate social impact.
 
+I am always looking for talented collaborators from all backgrounds for both research and projects. Feel free to shoot me an email if you are interested in my research. I would love to talk to you.
 
 ## Academic Research and Conference Papers:
 
@@ -22,7 +23,7 @@ I am especially passionate about research in Statistics, Machine learning, Deep 
 - We also present a novel bias evaluation framework based on Masked Language Models to quantitatively assess social bias based on validated inventories of social cues/words
 
 ### Language in job advertisements and the reproduction of labor force gender and racial segregation (PNAS Nexus 2024)
-We develops a gender and EDI language inventory for job advertisements to examine the reciprocal influence between the language used in job ads and the gender/racial composition of the labor force. Utilizing 28.6 million job ads from the United Kingdom (2018-2023) and labor force statistics, it identifies mechanisms through which this interaction either perpetuates or mitigates gender/racial segregation in the labor force. The findings emphasize the potential impacts and challenges of modifying job ad language to foster labor market equity.
+We develop a gender and EDI language inventory for job advertisements to examine the reciprocal influence between the language used in job ads and the gender/racial composition of the labor force. Utilizing 28.6 million job ads from the United Kingdom (2018-2023) and labor force statistics, it identifies mechanisms through which this interaction either perpetuates or mitigates gender/racial segregation in the labor force. The findings emphasize the potential impacts and challenges of modifying job ad language to foster labor market equity.
 
 ### From physical space to cyberspace: Recessive gender biases in social media mirror the real world (Cities)
 - We propose a new Framework to analyze and quantify recessive gender biases in social media, using Hong Kong's Twitter data as a case study.
@@ -88,7 +89,7 @@ We develops a gender and EDI language inventory for job advertisements to examin
 - Implemented NLP models including TF-IDF, averaging word vectors, doc2vec, and RNN with BERT embeddings.
 - Successfully improved innovation management and resource allocation.
 
-### 1. Medical Insurance Cost Prediction using Recurrent Neural Networks
+### 1. Medical Insurance Cost Prediction Using Recurrent Neural Networks
 - Internship at Guangzhou Huazi Software Technology Co in 2018.
 - Built RNN models to predict medical insurance costs for government authorities.
 - Worked on NLP word correction for OCR with Kneser-Ney smoothing and noisy channel model.
