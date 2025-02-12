@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student advised by Prof. [Linglong Kong](https://sites.ualberta.ca/~lkong/) and Prof. [Bei Jiang](https://sites.ualberta.ca/~bei1/) at the University of Alberta (UofA). I obtained my M.S. degree at the University of Minnesota with Prof. [Yang Li](https://yangli-stat.github.io/) and Prof. [Haiyang Wang](https://www.d.umn.edu/~haiyang/) and B.S. degree at Beijing University of Posts and Telecommunications(BUPT).
+I am a Ph.D. student advised by Prof. [Linglong Kong](https://sites.ualberta.ca/~lkong/) and Prof. [Bei Jiang](https://sites.ualberta.ca/~bei1/) at the University of Alberta (Canada). I obtained my M.S. degree at the University of Minnesota(USA) with Prof. [Yang Li](https://yangli-stat.github.io/) and Prof. [Haiyang Wang](https://www.d.umn.edu/~haiyang/) and B.S. degree at Beijing University of Posts and Telecommunications(China).
 
 I am especially passionate about research in Machine learning, Deep learning, and Natural language processing and their application and impact on society. As such, I work at the intersection of applying statistical machine learning methods and natural language processing algorithms to investigate social impact.
 
