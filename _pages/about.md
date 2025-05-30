@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I’m an incoming Assistant Professor in the Department of Statistics at the University of Manitoba.
 
-I am a Ph.D. student advised by Prof. [Linglong Kong](https://sites.ualberta.ca/~lkong/) and Prof. [Bei Jiang](https://sites.ualberta.ca/~bei1/) at the University of Alberta (Canada). I obtained my M.S. degree at the University of Minnesota(USA) with Prof. [Yang Li](https://yangli-stat.github.io/) and Prof. [Haiyang Wang](https://www.d.umn.edu/~haiyang/) and B.S. degree at Beijing University of Posts and Telecommunications(China).
+I earned my Ph.D. at the University of Alberta (Canada), co-advised by Prof. [Linglong Kong](https://sites.ualberta.ca/~lkong/) and Prof. [Bei Jiang](https://sites.ualberta.ca/~bei1/). I obtained my M.S. degree at the University of Minnesota (USA) with Prof. [Yang Li](https://yangli-stat.github.io/) and Prof. [Haiyang Wang](https://www.d.umn.edu/~haiyang/) and B.S. degree at Beijing University of Posts and Telecommunications(China).
 
-I am especially passionate about research in Machine learning, Deep learning, and Natural language processing and their application and impact on society. As such, I work at the intersection of applying statistical machine learning methods and natural language processing algorithms to investigate social impact.
+My research is driven by a passion for natural language processing, machine learning, and deep learning, particularly their applications and implications for society. I work at the intersection of statistical machine learning and NLP, aiming to develop methods that not only advance the field but also address socially impactful challenges.
 
-I am always looking for talented collaborators from all backgrounds for both research and projects. Feel free to shoot me an email if you are interested in my research. I would love to talk to you.
+I am always open to collaborations with curious and motivated individuals from all backgrounds. If you’re interested in working together or learning more about my research, feel free to reach out via email—I’d love to connect.
 
 ## Academic Research and Conference Papers:
 
