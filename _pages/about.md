@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m an incoming Assistant Professor in the Department of Statistics at the University of Manitoba.
+I’m an Assistant Professor in the Department of Statistics at the University of Manitoba.
 
 I earned my Ph.D. at the University of Alberta (Canada), co-advised by Prof. [Linglong Kong](https://sites.ualberta.ca/~lkong/) and Prof. [Bei Jiang](https://sites.ualberta.ca/~bei1/). I obtained my M.S. degree at the University of Minnesota (USA) with Prof. [Yang Li](https://yangli-stat.github.io/) and Prof. [Haiyang Wang](https://www.d.umn.edu/~haiyang/) and B.S. degree at Beijing University of Posts and Telecommunications(China).
 
