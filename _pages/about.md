@@ -14,7 +14,7 @@ I earned my Ph.D. at the University of Alberta (Canada), co-advised by Prof. [Li
 
 ## Research
 
-My research sits at the intersection of modern machine learning and statistics, with an emphasis on **trustworthy, practical, and deployable AI**.
+My research sits at the intersection of modern machine learning， natural language processing, and statistics, with an emphasis on **trustworthy, practical, and deployable AI**.
 
 **Current themes**
 1. **LLMs & NLP**: post-training ([NeurIPS 2025 Workshop](https://arxiv.org/pdf/2510.00977)), agentic systems ([AAMAS 2026 Oral](https://arxiv.org/abs/2505.17086)), retrieval-augmented generation (RAG; [AAAI 2026 Workshop](https://arxiv.org/pdf/2510.10828), [arXiv](https://arxiv.org/pdf/2511.19987)), reasoning, evaluation (e.g., LLM-as-judge), and domain applications ([NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/file/fce2d8a485746f76aac7b5650db2679d-Paper-Conference.pdf)).
