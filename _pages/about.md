@@ -72,10 +72,13 @@ I don’t maintain a complete publication list here—please see **Google Schola
 - **Cloud User Interest Analysis in P2P Systems** (IEEE INFOCOM 2020)  
   - Measurement and modeling of peer interests; large-scale scraping and clustering-based analysis.
 
-## Invited Talk
+## Invited Talks
 
-**Ding, L.** (Presenter), SIAM Spring 2023: *“Word embeddings via causal inference: Gender bias reduction with semantic preservation”*, University of Texas at Arlington (May 2, 2023).
-
+- Ding, Lei (Author & Presenter). *Health Data with Artificial Intelligence*. Manitoba CLL Research Meeting, Winnipeg, MB, Canada. **Oct 2025**
+- Ding, Lei (Author & Presenter). *Probing Social Bias in Labor Market Text Generation by ChatGPT: A Masked Language Model Approach*. DSA Seminar, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China. **Jul 2025**
+- Ding, Lei (Author & Presenter). *Social Bias Evaluation in Text and Large Language Models*. Seminar, Concordia University, Canada. **Feb 2025**
+- Ding, Lei (Author & Presenter). *Social Bias Evaluation in Text and Large Language Models*. Seminar, University of Manitoba, Canada. **Dec 2024**
+- Ding, Lei (Author & Presenter). *Word Embeddings via Causal Inference: Reducing Gender Bias While Preserving Semantic Information*. SIAM Spring 2023, University of Texas at Arlington, Arlington, TX, USA. **May 2023**
 ## Media
 
 - [University of Alberta Folio](https://www.ualberta.ca/folio/2022/09/ai-researchers-improve-method-for-removing-gender-bias-in-natural-language-processing.html)  
