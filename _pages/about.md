@@ -23,9 +23,15 @@ My research sits at the intersection of modern machine learning， natural langu
 
 I’m always open to collaborations with curious and motivated students and researchers. If you’d like to work together, please reach out by email.
 
+
+
 ## Publications
 
 I don’t maintain a complete publication list here—please see **Google Scholar**.
+
+### News
+
+Our paper: **VeritasFi: An Adaptable, Multi-tiered RAG Framework for Multi-modal Financial Question Answering** accepted at ACM TheWebConf 2026.
 
 ### Selected work
 
