@@ -31,7 +31,9 @@ I don’t maintain a complete publication list here—please see **Google Schola
 
 ### News
 
-Our paper: **VeritasFi: An Adaptable, Multi-tiered RAG Framework for Multi-modal Financial Question Answering** accepted at ACM TheWebConf 2026.
+- Our paper **Exponential-Wrapped Mechanisms: Differential Privacy on Hadamard Manifolds Made Practical** has been accepted to **ICLR 2026**.
+- Our paper **VeritasFi: An Adaptable, Multi-Tiered RAG Framework for Multimodal Financial Question Answering** has been accepted to **ACM The Web Conference (WWW) 2026**, and received the **Best Paper Award** at the **AAAI 2026 Workshop on Agentic AI in Financial Services**.
+- Our paper **Advancing Multi-Agent RAG Systems with Minimalist Reinforcement Learning** has been accepted to **AAMAS 2026** as an **Oral presentation**.
 
 ### Selected work
 
