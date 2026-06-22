@@ -88,6 +88,12 @@ I don’t maintain a complete publication list here—please see **Google Schola
 - Ding, Lei (Author & Presenter). *Social Bias Evaluation in Text and Large Language Models*. Seminar, Concordia University, Canada. **Feb 2025**
 - Ding, Lei (Author & Presenter). *Social Bias Evaluation in Text and Large Language Models*. Seminar, University of Manitoba, Canada. **Dec 2024**
 - Ding, Lei (Author & Presenter). *Word Embeddings via Causal Inference: Reducing Gender Bias While Preserving Semantic Information*. SIAM Spring 2023, University of Texas at Arlington, Arlington, TX, USA. **May 2023**
+
+## Workshops
+- [CANSSI Prairies Workshop: From Classical NLP to Large Language Models: Concepts, Architectures, and Practical Demonstrations](https://canssi.ca/events/canssi-prairies-ding/)
+- [SSC Biostatistics Workshop: Generative AI in Statistical Science](https://instats.org/seminar/generative-ai-for-statistical-science-fr-1)
+
+
 ## Media
 
 - [University of Alberta Folio](https://www.ualberta.ca/folio/2022/09/ai-researchers-improve-method-for-removing-gender-bias-in-natural-language-processing.html)  
