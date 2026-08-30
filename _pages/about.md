@@ -30,7 +30,7 @@ I’m always open to collaborations with curious and motivated students and rese
 I don’t maintain a complete publication list here—please see **Google Scholar**.
 
 ### News
-
+- Our paper **PeopleSearchBench: Evaluating AI-Powered People Search Platforms with Criteria-Grounded Verification** has been accepted  to **EMNLP 2026 Industry Track**
 - Our paper **FinSAgent: A Financial Specialized Multi-Agent System for SEC Filing Analysis** is selected as the **Best Paper** of **FinLLM Workshop of IJCAI 2026**.
 - Our paper **R^2R: A Route-to-Rerank Post-Training Framework for Multi-Domain Decoder-Only Rerankers** has been accepted as a full paper with an oral presentation in **PAKDD 2026**.
 - Our paper **Exponential-Wrapped Mechanisms: Differential Privacy on Hadamard Manifolds Made Practical** has been accepted to **ICLR 2026**.
