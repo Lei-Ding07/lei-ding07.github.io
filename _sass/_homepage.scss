@@ -1,0 +1,146 @@
+/* Homepage refinements: compact, readable, and research-first. */
+
+.home-intro {
+  margin: 0 0 2.5rem;
+  padding: 1.5rem 1.75rem;
+  border: 1px solid mix(#fff, $info-color, 72%);
+  border-left: 5px solid $info-color;
+  border-radius: 8px;
+  background: linear-gradient(135deg, mix(#fff, $info-color, 95%), #fff 72%);
+
+  p:last-of-type {
+    margin-bottom: 1rem;
+  }
+}
+
+.home-intro__eyebrow {
+  margin-bottom: 0.55rem !important;
+  color: mix(#000, $info-color, 30%);
+  font-size: 0.82rem !important;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.home-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1.15rem;
+
+  .btn {
+    margin: 0;
+    text-decoration: none;
+  }
+}
+
+.home-section {
+  margin-top: 2.75rem;
+  scroll-margin-top: 5rem;
+}
+
+.research-grid,
+.link-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.25rem 0 1.5rem;
+}
+
+.research-card {
+  padding: 1.2rem;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba($dark-gray, 0.06);
+
+  h3 {
+    margin: 0 0 0.65rem;
+    color: $darker-gray;
+    font-size: 1.05rem;
+  }
+
+  p {
+    margin-bottom: 0.75rem;
+    color: $dark-gray;
+    font-size: 0.95rem;
+    line-height: 1.65;
+  }
+}
+
+.research-card__list {
+  margin: 0;
+  padding-left: 1.15rem;
+
+  li {
+    margin-bottom: 0.45rem;
+    color: $dark-gray;
+    font-size: 0.88rem;
+    line-height: 1.5;
+  }
+
+  li:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.news-list,
+.publication-list {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+
+  li {
+    display: grid;
+    grid-template-columns: 4.5rem minmax(0, 1fr);
+    gap: 0.85rem;
+    padding: 0.8rem 0;
+    border-bottom: 1px solid $border-color;
+    line-height: 1.55;
+  }
+}
+
+.news-list__year,
+.publication-list__venue {
+  color: mix(#000, $info-color, 25%);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.publication-list li {
+  grid-template-columns: 7.25rem minmax(0, 1fr);
+}
+
+.link-grid > div {
+  padding: 1rem 1.15rem;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+
+  h3 {
+    margin-top: 0;
+  }
+}
+
+@include breakpoint($medium) {
+  .research-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .link-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@include breakpoint(max-width $small) {
+  .home-intro {
+    padding: 1.2rem;
+  }
+
+  .news-list li,
+  .publication-list li {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}
+
