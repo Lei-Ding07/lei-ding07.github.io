@@ -25,11 +25,11 @@ I earned my Ph.D. at the University of Alberta, co-advised by Prof. [Linglong Ko
 ## Latest news
 
 <ul class="news-list">
-  <li><span class="news-list__year">2026</span><span><strong>PeopleSearchBench</strong> was accepted to <strong>EMNLP 2026</strong>.</span></li>
-  <li><span class="news-list__year">2026</span><span><strong>FinSAgent</strong> received the <strong>Best Paper Award</strong> at the FinLLM Workshop of IJCAI 2026.</span></li>
-  <li><span class="news-list__year">2026</span><span><strong>R²R</strong> was accepted as a full paper with an oral presentation at <strong>PAKDD 2026</strong>.</span></li>
-  <li><span class="news-list__year">2026</span><span><strong>Exponential-Wrapped Mechanisms</strong> was accepted to <strong>ICLR 2026</strong>.</span></li>
-  <li><span class="news-list__year">2026</span><span><strong>VeritasFi</strong> was accepted to <strong>ACM The Web Conference 2026</strong> and received the Best Paper Award at the AAAI Workshop on Agentic AI in Financial Services.</span></li>
+  <li><span class="news-list__year">2026</span><span><strong>PeopleSearchBench: A Multi-Dimensional Benchmark for Evaluating AI-Powered People Search Platforms</strong> was accepted to the <strong>EMNLP 2026 Industry Track</strong>.</span></li>
+  <li><span class="news-list__year">2026</span><span><strong>FinSAgent: Corpus-Aligned Multi-Agent RAG Framework for Evidence-Grounded SEC Filing Question Answering</strong> received the <strong>Best Paper Award</strong> at the FinLLM Workshop of IJCAI 2026.</span></li>
+  <li><span class="news-list__year">2026</span><span><strong>R²R: A Post-Training Framework for Multi-Domain Decoder-Only Rerankers</strong> was accepted as a full paper with an oral presentation at <strong>PAKDD 2026</strong>.</span></li>
+  <li><span class="news-list__year">2026</span><span><strong>Exponential-Wrapped Mechanisms for Differential Privacy on Hadamard Manifolds</strong> was accepted to <strong>ICLR 2026</strong>.</span></li>
+  <li><span class="news-list__year">2026</span><span><strong>VeritasFi: An Adaptable, Multi-Tiered RAG Framework for Multi-Modal Financial Question Answering</strong> was accepted to <strong>ACM The Web Conference 2026</strong> and received the Best Paper Award at the AAAI Workshop on Agentic AI in Financial Services.</span></li>
   <li><span class="news-list__year">2026</span><span><strong>Advancing Multi-Agent RAG Systems with Minimalist Reinforcement Learning</strong> was accepted for an oral presentation at <strong>AAMAS 2026</strong>.</span></li>
 </ul>
 </section>
@@ -37,24 +37,61 @@ I earned my Ph.D. at the University of Alberta, co-advised by Prof. [Linglong Ko
 <section class="home-section" id="research" markdown="1">
 ## Research
 
+My research sits at the intersection of statistical machine learning, natural language processing, and artificial intelligence, with an emphasis on **trustworthy, practical, and deployable AI**. Current directions include:
+
 <div class="research-grid">
   <article class="research-card">
-  <h3>LLMs &amp; NLP</h3>
-  <p>Post-training, agentic systems, retrieval-augmented generation, reasoning, evaluation, and domain applications. Recent work includes <a href="https://arxiv.org/abs/2505.17086">multi-agent systems</a>, <a href="https://arxiv.org/pdf/2510.10828">RAG for financial QA</a>, and <a href="https://arxiv.org/pdf/2511.19987">multi-domain reranking</a>.</p>
+  <h3>LLMs, NLP &amp; agentic AI</h3>
+  <p>Post-training, reinforcement learning, agentic systems, retrieval-augmented generation, reranking, reasoning, evaluation, and domain applications.</p>
+  <ul class="research-card__list">
+    <li><a href="https://arxiv.org/abs/2505.17086">Multi-agent RAG</a> — <strong>AAMAS 2026 Oral</strong></li>
+    <li><a href="https://arxiv.org/pdf/2510.10828">VeritasFi</a> — <strong>ACM Web Conference 2026</strong>; <strong>AAAI Workshop Best Paper</strong></li>
+    <li><a href="https://arxiv.org/abs/2607.18102">FinSAgent</a> — <strong>FinLLM @ IJCAI 2026 Best Paper</strong></li>
+    <li><a href="https://arxiv.org/pdf/2511.19987">Multi-domain reranking</a> — <strong>PAKDD 2026 Oral</strong></li>
+    <li>AI-powered people search — <strong>EMNLP 2026 Industry Track</strong></li>
+    <li><a href="https://arxiv.org/abs/2510.00977">LLM post-training</a> — <strong>NeurIPS 2025 Workshop</strong></li>
+    <li><a href="https://arxiv.org/abs/2601.22530">TableQA reasoning</a>, <a href="https://arxiv.org/abs/2605.14465">table alignment</a>, and <a href="https://arxiv.org/abs/2606.19714">LLM-as-a-judge auditing</a></li>
+  </ul>
   </article>
 
   <article class="research-card">
   <h3>Fair &amp; responsible AI</h3>
-  <p>Measuring and mitigating social bias in language and AI systems, including work in <a href="https://academic.oup.com/pnasnexus/article/3/12/pgae526/7905141?login=false">PNAS Nexus</a>, <a href="https://aclanthology.org/2024.naacl-long.332.pdf">NAACL 2024</a>, and <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/4b52b3c50110fc10f6a1a86055682ea2-Paper-Conference.pdf">NeurIPS 2022</a>.</p>
+  <p>Measuring, auditing, and mitigating social bias in language, representations, and AI systems, especially in high-stakes labor-market settings.</p>
+  <ul class="research-card__list">
+    <li><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/fce2d8a485746f76aac7b5650db2679d-Paper-Conference.pdf">Bias in ChatGPT-generated job applications</a> — <strong>NeurIPS 2024</strong></li>
+    <li><a href="https://academic.oup.com/pnasnexus/article/3/12/pgae526/7905141?login=false">Language and labor-force segregation</a> — <strong>PNAS Nexus 2024</strong></li>
+    <li><a href="https://aclanthology.org/2024.naacl-long.332.pdf">Debiasing with sufficient projection</a> — <strong>NAACL 2024</strong></li>
+    <li><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/4b52b3c50110fc10f6a1a86055682ea2-Paper-Conference.pdf">Conformalized fairness</a> — <strong>NeurIPS 2022</strong></li>
+    <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/21443">Causal debiasing of word embeddings</a> — <strong>AAAI 2022</strong></li>
+    <li>Related work in <strong>Frontiers in Big Data</strong> and <strong>Cities</strong></li>
+  </ul>
   </article>
 
   <article class="research-card">
-  <h3>Statistics + AI</h3>
-  <p>Statistical machine learning for privacy, health, medicine, anthropology, and environmental science, including recent work on <a href="https://openreview.net/forum?id=ulCVfMOo30">differential privacy</a> and <a href="https://link.springer.com/article/10.1186/s12874-023-01869-w">synthetic health data</a>.</p>
+  <h3>Privacy &amp; statistical learning</h3>
+  <p>Statistical foundations for privacy, uncertainty, fairness, and reliable learning on complex data.</p>
+  <ul class="research-card__list">
+    <li><a href="https://openreview.net/forum?id=ulCVfMOo30">Differential privacy on Hadamard manifolds</a> — <strong>ICLR 2026</strong></li>
+    <li><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/2f27964513a28d034530bfdd117ea31d-Abstract-Conference.html">Gaussian differential privacy on Riemannian manifolds</a> — <strong>NeurIPS 2023</strong></li>
+    <li><a href="https://proceedings.mlr.press/v202/liu23q.html">Online local differential-private quantile inference</a> — <strong>ICML 2023</strong></li>
+    <li><a href="https://arxiv.org/abs/1912.09040">Selection bias in counterfactual reasoning</a> — <strong>NeurIPS 2019 Workshop</strong></li>
+  </ul>
+  </article>
+
+  <article class="research-card">
+  <h3>Health &amp; interdisciplinary data science</h3>
+  <p>Statistical learning and AI for health, medicine, public health, anthropology, environmental science, and large-scale behavioral data.</p>
+  <ul class="research-card__list">
+    <li><a href="https://link.springer.com/article/10.1186/s12874-023-01869-w">Synthetic longitudinal health data</a> — <strong>BMC Medical Research Methodology</strong></li>
+    <li>Medical cannabis and population health — <strong>Substance Use &amp; Misuse</strong>, <strong>Journal of Epidemiology and Population Health</strong>, and <strong>American Journal of Preventive Medicine</strong></li>
+    <li>Clinical outcomes — <strong>Leukemia Research</strong></li>
+    <li>Interdisciplinary work in <strong>Archaeological and Anthropological Sciences</strong> and <strong>Ecotoxicology and Environmental Safety</strong></li>
+    <li>Large-scale online behavior — <strong>IEEE INFOCOM Workshops</strong></li>
+  </ul>
   </article>
 </div>
 
-I’m always open to collaborations with curious and motivated students and researchers.
+For a complete and current record, see my [Google Scholar profile](https://scholar.google.com/citations?user=D6dipYIAAAAJ&hl=en). I’m always open to collaborations with curious and motivated students and researchers.
 </section>
 
 <section class="home-section" id="selected-work" markdown="1">
@@ -83,10 +120,21 @@ I’m always open to collaborations with curious and motivated students and rese
 <section class="home-section" id="talks" markdown="1">
 ## Invited talks
 
+- *Probing Social Bias in Labor Market Text Generation by ChatGPT: A Masked Language Model Approach* — 7th ICSA-Canada Chapter Symposium, McGill University, Montréal, August 2026.
+- Invited speaker, *Advanced Methods for Complex Data Analysis* session — 2026 ICSA China Conference, Shenzhen, June 2026.
 - *Health Data with Artificial Intelligence* — Manitoba CLL Research Meeting, Winnipeg, October 2025.
-- *Probing Social Bias in Labor Market Text Generation by ChatGPT* — DSA Seminar, HKUST (Guangzhou), July 2025.
+- *Probing Social Bias in Labor Market Text Generation by ChatGPT: A Masked Language Model Approach* — DSA Seminar, HKUST (Guangzhou), July 2025.
 - *Social Bias Evaluation in Text and Large Language Models* — Concordia University, February 2025.
 - *Social Bias Evaluation in Text and Large Language Models* — University of Manitoba, December 2024.
+</section>
+
+<section class="home-section" id="teaching" markdown="1">
+## Teaching at the University of Manitoba
+
+- **STAT 4910 / STAT 7250 — Statistical Natural Language Processing:** Fall 2025 and Fall 2026.
+- **DATA 2010 — Tools and Techniques for Data Science:** Winter 2026 and Winter 2027 (scheduled).
+
+[View full teaching record →](/teaching/)
 </section>
 
 <section class="home-section home-links" markdown="1">
