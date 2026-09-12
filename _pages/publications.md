@@ -11,12 +11,26 @@ This page highlights selected publications and accepted papers. For the most com
 
 ## 2026
 
-- **PeopleSearchBench: Evaluating AI-Powered People Search Platforms with Criteria-Grounded Verification.** Accepted to *EMNLP 2026*.
-- **FinSAgent: A Financial Specialized Multi-Agent System for SEC Filing Analysis.** Best Paper, *FinLLM Workshop at IJCAI 2026*.
-- [**R²R: A Route-to-Rerank Post-Training Framework for Multi-Domain Decoder-Only Rerankers.**](https://arxiv.org/pdf/2511.19987) Full paper and oral presentation, *PAKDD 2026*.
-- [**Exponential-Wrapped Mechanisms: Differential Privacy on Hadamard Manifolds Made Practical.**](https://openreview.net/forum?id=ulCVfMOo30) *ICLR 2026*.
-- [**VeritasFi: An Adaptable, Multi-Tiered RAG Framework for Multimodal Financial Question Answering.**](https://arxiv.org/pdf/2510.10828) *ACM The Web Conference 2026*; Best Paper, *AAAI Workshop on Agentic AI in Financial Services*.
+- **PeopleSearchBench: A Multi-Dimensional Benchmark for Evaluating AI-Powered People Search Platforms.** *EMNLP 2026 Industry Track*.
+- [**FinSAgent: Corpus-Aligned Multi-Agent RAG Framework for Evidence-Grounded SEC Filing Question Answering.**](https://arxiv.org/abs/2607.18102) Best Paper, *FinLLM Workshop at IJCAI 2026*.
+- [**R²R: A Post-Training Framework for Multi-Domain Decoder-Only Rerankers.**](https://arxiv.org/pdf/2511.19987) Full paper and oral presentation, *PAKDD 2026*.
+- [**Exponential-Wrapped Mechanisms for Differential Privacy on Hadamard Manifolds.**](https://openreview.net/forum?id=ulCVfMOo30) *ICLR 2026*.
+- [**VeritasFi: An Adaptable, Multi-Tiered RAG Framework for Multi-Modal Financial Question Answering.**](https://arxiv.org/pdf/2510.10828) *ACM The Web Conference 2026*; Best Paper, *AAAI Workshop on Agentic AI in Financial Services*.
 - [**Advancing Multi-Agent RAG Systems with Minimalist Reinforcement Learning.**](https://arxiv.org/abs/2505.17086) Oral presentation, *AAMAS 2026*.
+
+### Recent manuscripts
+
+- [**AURA: Adaptive Uncertainty-Aware Refinement for LLM-as-a-Judge Auditing.**](https://arxiv.org/abs/2606.19714)
+- [**Quantifying and Auditing LLM Evaluation via Positive-Unlabeled Learning.**](https://arxiv.org/abs/2606.19057)
+- [**From Table to Cell: Attention for Better Reasoning with TABALIGN.**](https://arxiv.org/abs/2605.14465)
+- [**Enhancing TableQA through Verifiable Reasoning Trace Reward.**](https://arxiv.org/abs/2601.22530)
+- [**Dynamic Quantization Error Propagation in Encoder-Decoder ASR Quantization.**](https://arxiv.org/abs/2601.02455)
+
+## 2025
+
+- [**It Takes Two: Your GRPO Is Secretly DPO.**](https://arxiv.org/abs/2510.00977) *NeurIPS 2025 Workshop*.
+- **The Association of Medical Cannabis Use with Quality of Life in Illinois’ Opioid Alternative Pilot Program.** *Journal of Epidemiology and Population Health*.
+- **Medical Cannabis and Psychological Well-Being in Illinois’ Opioid Alternative Pilot Program.** *American Journal of Preventive Medicine*.
 
 ## 2024
 
@@ -37,3 +51,4 @@ This page highlights selected publications and accepted papers. For the most com
 - Liu, M., **Ding, L.**, Yu, D., Liu, W., Kong, L., and Jiang, B. [**Conformalized Fairness via Quantile Regression.**](https://proceedings.neurips.cc/paper_files/paper/2022/file/4b52b3c50110fc10f6a1a86055682ea2-Paper-Conference.pdf) *NeurIPS 2022*, 11561–11572.
 - Hu, S., Al-Ani, J. A., Hughes, K. D., Denier, N., Konnikov, A., **Ding, L.**, et al. [**Balancing Gender Bias in Job Advertisements with Text-Level Bias Mitigation.**](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2022.805713/full) *Frontiers in Big Data*.
 - **Ding, L.**, Li, Y., Wang, H., and Xu, K. **Measurement and Analysis of Cloud User Interest: A Glance From BitTorrent.** *IEEE INFOCOM Workshops 2020*, 1300–1301.
+
