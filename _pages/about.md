@@ -38,19 +38,19 @@ I earned my Ph.D. at the University of Alberta, co-advised by Prof. [Linglong Ko
 ## Research
 
 <div class="research-grid">
-  <article class="research-card" markdown="1">
-  ### LLMs & NLP
-  Post-training, agentic systems, retrieval-augmented generation, reasoning, evaluation, and domain applications. Recent work includes [multi-agent systems](https://arxiv.org/abs/2505.17086), [RAG for financial QA](https://arxiv.org/pdf/2510.10828), and [multi-domain reranking](https://arxiv.org/pdf/2511.19987).
+  <article class="research-card">
+  <h3>LLMs &amp; NLP</h3>
+  <p>Post-training, agentic systems, retrieval-augmented generation, reasoning, evaluation, and domain applications. Recent work includes <a href="https://arxiv.org/abs/2505.17086">multi-agent systems</a>, <a href="https://arxiv.org/pdf/2510.10828">RAG for financial QA</a>, and <a href="https://arxiv.org/pdf/2511.19987">multi-domain reranking</a>.</p>
   </article>
 
-  <article class="research-card" markdown="1">
-  ### Fair & responsible AI
-  Measuring and mitigating social bias in language and AI systems, including work in [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/12/pgae526/7905141?login=false), [NAACL 2024](https://aclanthology.org/2024.naacl-long.332.pdf), and [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/file/4b52b3c50110fc10f6a1a86055682ea2-Paper-Conference.pdf).
+  <article class="research-card">
+  <h3>Fair &amp; responsible AI</h3>
+  <p>Measuring and mitigating social bias in language and AI systems, including work in <a href="https://academic.oup.com/pnasnexus/article/3/12/pgae526/7905141?login=false">PNAS Nexus</a>, <a href="https://aclanthology.org/2024.naacl-long.332.pdf">NAACL 2024</a>, and <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/4b52b3c50110fc10f6a1a86055682ea2-Paper-Conference.pdf">NeurIPS 2022</a>.</p>
   </article>
 
-  <article class="research-card" markdown="1">
-  ### Statistics + AI
-  Statistical machine learning for privacy, health, medicine, anthropology, and environmental science, including recent work on [differential privacy](https://openreview.net/forum?id=ulCVfMOo30) and [synthetic health data](https://link.springer.com/article/10.1186/s12874-023-01869-w).
+  <article class="research-card">
+  <h3>Statistics + AI</h3>
+  <p>Statistical machine learning for privacy, health, medicine, anthropology, and environmental science, including recent work on <a href="https://openreview.net/forum?id=ulCVfMOo30">differential privacy</a> and <a href="https://link.springer.com/article/10.1186/s12874-023-01869-w">synthetic health data</a>.</p>
   </article>
 </div>
 
@@ -92,16 +92,21 @@ I’m always open to collaborations with curious and motivated students and rese
 <section class="home-section home-links" markdown="1">
 ## Workshops & media
 
-<div class="link-grid" markdown="1">
-  <div markdown="1">
-  ### Workshops
-  - [From Classical NLP to Large Language Models](https://canssi.ca/events/canssi-prairies-ding/) — CANSSI Prairies
-  - [Generative AI in Statistical Science](https://instats.org/seminar/generative-ai-for-statistical-science-fr-1) — SSC Biostatistics Workshop
+<div class="link-grid">
+  <div>
+  <h3>Workshops</h3>
+  <ul>
+    <li><a href="https://canssi.ca/events/canssi-prairies-ding/">From Classical NLP to Large Language Models</a> — CANSSI Prairies</li>
+    <li><a href="https://instats.org/seminar/generative-ai-for-statistical-science-fr-1">Generative AI in Statistical Science</a> — SSC Biostatistics Workshop</li>
+  </ul>
   </div>
-  <div markdown="1">
-  ### Media
-  - [AI researchers improve method for removing gender bias](https://www.ualberta.ca/folio/2022/09/ai-researchers-improve-method-for-removing-gender-bias-in-natural-language-processing.html) — University of Alberta Folio
-  - [Study finds ways to reduce gender bias in NLP](https://thegatewayonline.ca/2022/10/study-has-found-ways-to-reduce-gender-bias-in-natural-language-processing/) — *The Gateway*
+  <div>
+  <h3>Media</h3>
+  <ul>
+    <li><a href="https://www.ualberta.ca/folio/2022/09/ai-researchers-improve-method-for-removing-gender-bias-in-natural-language-processing.html">AI researchers improve method for removing gender bias</a> — University of Alberta Folio</li>
+    <li><a href="https://thegatewayonline.ca/2022/10/study-has-found-ways-to-reduce-gender-bias-in-natural-language-processing/">Study finds ways to reduce gender bias in NLP</a> — <em>The Gateway</em></li>
+  </ul>
   </div>
 </div>
 </section>
+
