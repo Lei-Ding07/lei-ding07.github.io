@@ -11,7 +11,7 @@ This page highlights selected publications and accepted papers. For the most com
 
 ## 2026
 
-- **PeopleSearchBench: A Multi-Dimensional Benchmark for Evaluating AI-Powered People Search Platforms.** *EMNLP 2026 Industry Track*.
+- [**PeopleSearchBench: Evaluating AI-Powered People Search Platforms with Criteria-Grounded Verification.**](https://arxiv.org/abs/2603.27476) *EMNLP 2026 Industry Track*.
 - [**FinSAgent: Corpus-Aligned Multi-Agent RAG Framework for Evidence-Grounded SEC Filing Question Answering.**](https://arxiv.org/abs/2607.18102) Best Paper, *FinLLM Workshop at IJCAI 2026*.
 - [**R²R: A Post-Training Framework for Multi-Domain Decoder-Only Rerankers.**](https://arxiv.org/pdf/2511.19987) Full paper and oral presentation, *PAKDD 2026*.
 - [**Exponential-Wrapped Mechanisms for Differential Privacy on Hadamard Manifolds.**](https://openreview.net/forum?id=ulCVfMOo30) *ICLR 2026*.
