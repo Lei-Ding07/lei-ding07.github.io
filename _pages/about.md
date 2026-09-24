@@ -30,6 +30,8 @@ I’m always open to collaborations with curious and motivated students and rese
 I don’t maintain a complete publication list here—please see **Google Scholar**.
 
 ### News
+- Our paper **From Table to Cell: Attention for Better Reasoning with TABALIGN** has been accepted to **NeurIPS 2026**.
+- Our paper **Orthogonal Updates for the Win: Towards Accelerated Adaptive Minimax Optimization** has been accepted to **NeurIPS 2026**.
 - I have been invited to serve as an **Area Chair for ICLR 2027**.
 - Our paper **PeopleSearchBench: Evaluating AI-Powered People Search Platforms with Criteria-Grounded Verification** has been accepted  to **EMNLP 2026**
 - Our paper **FinSAgent: A Financial Specialized Multi-Agent System for SEC Filing Analysis** received the **Best Paper Award** at the **FinLLM Workshop at IJCAI 2026**.
